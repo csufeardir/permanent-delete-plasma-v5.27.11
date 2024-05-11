@@ -21,4 +21,4 @@ sudo bash ./install.sh
 to install
 
 # Notes
-This will re-write the data in your disk 3 times, deleted data will be irrecoverable, but using permanent delete excessively will cause your disk to deteriorate faster, this is a valid concern for SSDs.
+This will re-write the data in your disk 3 times but using permanent delete excessively will cause your disk to deteriorate faster, this is a valid concern for SSDs.
